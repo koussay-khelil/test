@@ -1,0 +1,29 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "john wick",
+      "image": "https://i.ebayimg.com/images/g/9GEAAOSwpP9Y6rhe/s-l300.jpg",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "title": "jane",
+      "image": "https://i.ebayimg.com/images/g/9GEAAOSwpP9Y6rhe/s-l300.jpg",
+      "rating": "5"
+    },
+    {
+      "open": true,
+      "title": "tomb raider",
+      "rating": 3,
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dkbjs2ouqaazkje-1506021465.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "axe",
+      "image": "res",
+      "rating": "2"
+    }
+  ]
+}
